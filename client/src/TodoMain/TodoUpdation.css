@@ -1,0 +1,17 @@
+.UpdateContainer{
+    border: 2px solid white;
+    width: 30%;
+    padding: 20px;
+}
+.UpdateForm{
+    margin-top: 20px;
+}
+.input{
+    width: 100%;
+    margin-top: 5px;
+}
+.AdminUpdate{
+    justify-content: center;
+    display: flex;
+    margin-top: 20px;
+}
